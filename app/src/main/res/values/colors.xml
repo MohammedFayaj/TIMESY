@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- For PagerTitleStrip -->
+    <color name="azure">#33B5E5</color>
+    <color name="white">#FFF</color>
+
+    <!-- For pages of ViewPager -->
+    <color name="pageColor1">#FFF59D</color>
+    <color name="pageColor2">#FFCC80</color>
+    <color name="pageColor3">#FFAB91</color>
+
+    <color name = "button_color">#1E88E5</color>
+    <color name = "card_color">#ecf1f5</color>
+    <color name="white_color">#ffffff</color>
+    <color name="year">#666666</color>
+    <color name="rating">#888888</color>
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+</resources>
