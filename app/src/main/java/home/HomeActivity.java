@@ -36,7 +36,7 @@ public class HomeActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_hone);
+        setContentView(R.layout.activity_home);
 
         // Set the Toolbar as the activity's app bar (instead of the default ActionBar)
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
